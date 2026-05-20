@@ -86,5 +86,27 @@
     "zip_sha256": "",
     "match_keywords": ["Survival Mode", "3.1"],
     "serverlist_enabled": "O"
+  },
+  {
+    "mod_id": "BOMBDEFUSAL MOD",
+    "mod_name": "폭탄설치모드 0.7",
+    "version": "0.7",
+    "exe_path": "xops_bombdefusal_07a.exe",
+    "folder_name": "",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/xops_bombdefusal_mod_07a.zip",
+    "zip_sha256": "",
+    "match_keywords": ["testde", "0.7", "폭탄"],
+    "serverlist_enabled": "X"
+  },
+  {
+    "mod_id": "XOPSOLT19F2",
+    "mod_name": "엑스오퍼레이션 멀티1.9f2 version [LIST]",
+    "version": "1.9f2",
+    "exe_path": "xopsolt19f2_list_cat",
+    "folder_name": "",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/xopsolt19f2_list.zip",
+    "zip_sha256": "",
+    "match_keywords": ["xops online test", "1.9 server",],
+    "serverlist_enabled": "O"
   }
 ]
