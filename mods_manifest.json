@@ -5,7 +5,16 @@
     "version": "1.2",
     "exe_path": "구카정모드 1.2.exe",
     "folder_name": "구카정모드 1.2",
-    "download_url": "",
+    "download_url": "https://downapi.cafe.naver.com/v1.0/cafes/article/file/fe50b837-53a8-11f1-bc92-0050569e3175/download",
+    "zip_sha256": ""
+  },
+  {
+    "mod_id": "zombie_mode_final",
+    "mod_name": "좀비모드 FINAL",
+    "version": "FINAL",
+    "exe_path": "xops zombie mode PLUS -FINAL-.exe",
+    "folder_name": "XOPS ZOMBIE MODE PLUS -FINAL-",
+    "download_url": "https://drive.google.com/file/d/10XCFHv9Bt3qP8DPKgRUiqMD2OXlz52tu/view",
     "zip_sha256": ""
   }
 ]
