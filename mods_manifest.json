@@ -71,7 +71,7 @@
     "version": "0.4",
     "exe_path": "snowfight.exe",
     "folder_name": "",
-    "download_url": "",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/Snow.Fight.Mode.0.4.zip",
     "zip_sha256": "",
     "match_keywords": ["snowfight", "0.4"],
     "serverlist_enabled": "X"
