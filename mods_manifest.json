@@ -6,9 +6,10 @@
     "exe_path": "CAOF V5.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/kajung5.0.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-010.jpg",
     "zip_sha256": "",
     "match_keywords": ["CA-OF", "5.0"],
-    "serverlist_enabled": "X"
+    "serverlist_enabled": "O"
   },
   {
     "mod_id": "GUKAJUNG MODE",
@@ -17,8 +18,9 @@
     "exe_path": "구카정모드.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/gukajung.1.2.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-009.jpg",
     "zip_sha256": "",
-    "match_keywords": ["구카정모드", "gukajung", "쏙옙", "옙카", "1.2v"],
+    "match_keywords": ["구카정모드", "gukajung", "1.2v"],
     "serverlist_enabled": "O"
   },
   {
@@ -28,6 +30,7 @@
     "exe_path": "CounterAttack luncher.exe",
     "folder_name": "",
     "download_url": "",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-004.jpg",
     "zip_sha256": "",
     "match_keywords": ["Survivor", "1.26"],
     "serverlist_enabled": "O"
@@ -39,6 +42,7 @@
     "exe_path": "xops zombie mode PLUS -FINAL-.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/XOPS.ZOMBIE.MODE.PLUS.-FINAL-.Zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-007.jpg",
     "zip_sha256": "",
     "match_keywords": ["ZOMBIE", "FINAL"],
     "serverlist_enabled": "O"
@@ -50,6 +54,7 @@
     "exe_path": "CApack3.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/CApack3v04.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-003.jpg",
     "zip_sha256": "",
     "match_keywords": ["CApack", "0.3v"],
     "serverlist_enabled": "O"
@@ -61,6 +66,7 @@
     "exe_path": "clutch.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/Clutch.Zombie.Mode.1.6.Version.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-005.jpg",
     "zip_sha256": "",
     "match_keywords": ["clutch zombie", "1.6"],
     "serverlist_enabled": "O"
@@ -72,6 +78,7 @@
     "exe_path": "snowfight.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/Snow.Fight.Mode.0.4.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-008.jpg",
     "zip_sha256": "",
     "match_keywords": ["snowfight", "0.4"],
     "serverlist_enabled": "X"
@@ -83,6 +90,7 @@
     "exe_path": "PANDORIUM.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/PANDORIUM.VER.3.1_.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-006.jpg",
     "zip_sha256": "",
     "match_keywords": ["Survival Mode", "3.1"],
     "serverlist_enabled": "O"
@@ -94,6 +102,7 @@
     "exe_path": "xops_bombdefusal.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/xops_bombdefusal_mod_07a.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-001.jpg",
     "zip_sha256": "",
     "match_keywords": ["testde", "0.7", "폭탄"],
     "serverlist_enabled": "X"
@@ -105,6 +114,7 @@
     "exe_path": "xopsolt19f2_list_cat.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/xopsolt19f2_list.zip",
+    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/blob/main/K-002.jpg",
     "zip_sha256": "",
     "match_keywords": ["xops online test", "1.9 server"],
     "serverlist_enabled": "O"
