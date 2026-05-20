@@ -75,5 +75,16 @@
     "zip_sha256": "",
     "match_keywords": ["snowfight", "0.4"],
     "serverlist_enabled": "X"
+  },
+  {
+    "mod_id": "KAJUNG MODE",
+    "mod_name": "카페정식버전 5.0",
+    "version": "5.0",
+    "exe_path": "CAOF V5.exe",
+    "folder_name": "",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/kajung5.0.zip",
+    "zip_sha256": "",
+    "match_keywords": ["CA-OF", "5.0"],
+    "serverlist_enabled": "X"
   }
 ]
