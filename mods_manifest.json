@@ -47,11 +47,22 @@
     "mod_id": "CLUTCH ZOMBIE MODE",
     "mod_name": "클러치좀비모드 1.6",
     "version": "1.6",
-    "exe_path": "clutch",
+    "exe_path": "clutch.exe",
     "folder_name": "",
     "download_url": "",
     "zip_sha256": "",
     "match_keywords": ["clutch zombie", "1.6"],
     "serverlist_enabled": "X"
+  },
+  {
+    "mod_id": "CAPACK ZOMBIE MODE",
+    "mod_name": "카팩좀비모드 1.26",
+    "version": "1.26",
+    "exe_path": "CounterAttack luncher.exe",
+    "folder_name": "",
+    "download_url": "",
+    "zip_sha256": "",
+    "match_keywords": ["Survivor", "1.26"],
+    "serverlist_enabled": "O"
   }
 ]
