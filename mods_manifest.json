@@ -97,9 +97,9 @@
   },
   {
     "mod_id": "BOMBDEFUSAL MOD",
-    "mod_name": "폭탄설치모드 0.7s",
-    "version": "0.7s",
-    "exe_path": "xops_bombdefusal.exe",
+    "mod_name": "폭탄설치모드 0.7",
+    "version": "0.7",
+    "exe_path": "xops_bombdefusal_07a",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/xops_bombdefusal_mod_07.zip",
     "preview_url": "https://raw.githubusercontent.com/cheolee1995-droid/xops-launcher/main/K-001.png",
