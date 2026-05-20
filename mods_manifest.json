@@ -1,5 +1,16 @@
 [
   {
+    "mod_id": "KAJUNG MODE",
+    "mod_name": "카페정식버전 5.0",
+    "version": "5.0",
+    "exe_path": "CAOF V5.exe",
+    "folder_name": "",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/kajung5.0.zip",
+    "zip_sha256": "",
+    "match_keywords": ["CA-OF", "5.0"],
+    "serverlist_enabled": "X"
+  },
+  {
     "mod_id": "GUKAJUNG MODE",
     "mod_name": "구카정모드 1.2",
     "version": "1.2",
@@ -11,6 +22,17 @@
     "serverlist_enabled": "O"
   },
   {
+    "mod_id": "CAPACK ZOMBIE MODE",
+    "mod_name": "카팩좀비모드 1.26",
+    "version": "1.26",
+    "exe_path": "CounterAttack luncher.exe",
+    "folder_name": "",
+    "download_url": "",
+    "zip_sha256": "",
+    "match_keywords": ["Survivor", "1.26"],
+    "serverlist_enabled": "O"
+  },  
+  {
     "mod_id": "ZOMBIE MODE PLUS",
     "mod_name": "좀비모드 플러스 FINAL",
     "version": "FINAL",
@@ -19,17 +41,6 @@
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/XOPS.ZOMBIE.MODE.PLUS.-FINAL-.Zip",
     "zip_sha256": "",
     "match_keywords": ["ZOMBIE", "FINAL"],
-    "serverlist_enabled": "O"
-  },
-  {
-    "mod_id": "PANDORIUM MODE",
-    "mod_name": "판도리움모드 3.1",
-    "version": "3.1",
-    "exe_path": "PANDORIUM.exe",
-    "folder_name": "",
-    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/PANDORIUM.VER.3.1_.zip",
-    "zip_sha256": "",
-    "match_keywords": ["Survival Mode", "3.1"],
     "serverlist_enabled": "O"
   },
   {
@@ -55,17 +66,6 @@
     "serverlist_enabled": "X"
   },
   {
-    "mod_id": "CAPACK ZOMBIE MODE",
-    "mod_name": "카팩좀비모드 1.26",
-    "version": "1.26",
-    "exe_path": "CounterAttack luncher.exe",
-    "folder_name": "",
-    "download_url": "",
-    "zip_sha256": "",
-    "match_keywords": ["Survivor", "1.26"],
-    "serverlist_enabled": "O"
-  },
-  {
     "mod_id": "SNOW FIGHT MODE",
     "mod_name": "눈싸움모드 0.4",
     "version": "0.4",
@@ -77,14 +77,14 @@
     "serverlist_enabled": "X"
   },
   {
-    "mod_id": "KAJUNG MODE",
-    "mod_name": "카페정식버전 5.0",
-    "version": "5.0",
-    "exe_path": "CAOF V5.exe",
+    "mod_id": "PANDORIUM MODE",
+    "mod_name": "판도리움모드 3.1",
+    "version": "3.1",
+    "exe_path": "PANDORIUM.exe",
     "folder_name": "",
-    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/kajung5.0.zip",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/PANDORIUM.VER.3.1_.zip",
     "zip_sha256": "",
-    "match_keywords": ["CA-OF", "5.0"],
-    "serverlist_enabled": "X"
-  }
+    "match_keywords": ["Survival Mode", "3.1"],
+    "serverlist_enabled": "O"
+  },
 ]
