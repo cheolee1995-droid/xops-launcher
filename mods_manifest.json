@@ -45,14 +45,14 @@
   },
   {
     "mod_id": "CAPACK MODE",
-    "mod_name": "카팩3 0.3",
-    "version": "3 (0.3)",
+    "mod_name": "카팩3 0.3s",
+    "version": "3 (0.3s)",
     "exe_path": "CApack3.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/CApack3v04.zip",
     "zip_sha256": "",
     "match_keywords": ["CApack", "0.3v"],
-    "serverlist_enabled": "X"
+    "serverlist_enabled": "O"
   },
   {
     "mod_id": "CLUTCH ZOMBIE MODE",
@@ -63,7 +63,7 @@
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/Clutch.Zombie.Mode.1.6.Version.zip",
     "zip_sha256": "",
     "match_keywords": ["clutch zombie", "1.6"],
-    "serverlist_enabled": "X"
+    "serverlist_enabled": "O"
   },
   {
     "mod_id": "SNOW FIGHT MODE",
@@ -89,8 +89,8 @@
   },
   {
     "mod_id": "BOMBDEFUSAL MOD",
-    "mod_name": "폭탄설치모드 0.7",
-    "version": "0.7",
+    "mod_name": "폭탄설치모드 0.7s",
+    "version": "0.7s",
     "exe_path": "xops_bombdefusal.exe",
     "folder_name": "",
     "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/xops_bombdefusal_mod_07a.zip",
