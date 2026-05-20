@@ -53,8 +53,8 @@
     "version": "3 (0.3s)",
     "exe_path": "CApack3.exe",
     "folder_name": "",
-    "download_url": "png",
-    "preview_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/capack3.0.3s.zip",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/capack3.0.3s.zip",
+    "preview_url": "https://raw.githubusercontent.com/cheolee1995-droid/xops-launcher/main/K-003.png",
     "zip_sha256": "",
     "match_keywords": ["CApack", "0.3v"],
     "serverlist_enabled": "O"
