@@ -1,6 +1,6 @@
 [
   {
-    "mod_id": "gukajung_1_2",
+    "mod_id": "GUKAJUNG MODE",
     "mod_name": "구카정모드 1.2",
     "version": "1.2",
     "exe_path": "구카정모드 1.2.exe",
@@ -10,7 +10,7 @@
     "match_keywords": ["구카정모드", "gukajung", "쏙옙", "옙카", "1.2v"]
   },
   {
-    "mod_id": "zombie_mode_final",
+    "mod_id": "ZOMBIEMODE",
     "mod_name": "좀비모드 FINAL",
     "version": "FINAL",
     "exe_path": "xops zombie mode PLUS -FINAL-.exe",
@@ -18,5 +18,15 @@
     "download_url": "https://drive.google.com/file/d/10XCFHv9Bt3qP8DPKgRUiqMD2OXlz52tu/view",
     "zip_sha256": "",
     "match_keywords": ["ZOMBIE", "FINAL"]
+  }
+  {
+    "mod_id": "PANDORIUM MODE",
+    "mod_name": "판도리움모드 3.1",
+    "version": "3.1",
+    "exe_path": "PANDORIUM.exe",
+    "folder_name": "",
+    "download_url": "https://drive.google.com/file/d/1PjlV0WFyQrIG6_trM5kw7iL_IiQxDFFW/view",
+    "zip_sha256": "",
+    "match_keywords": ["Survival Mode", "3.1"]
   }
 ]
