@@ -28,5 +28,15 @@
     "download_url": "https://drive.google.com/file/d/1PjlV0WFyQrIG6_trM5kw7iL_IiQxDFFW/view",
     "zip_sha256": "",
     "match_keywords": ["Survival Mode", "3.1"]
+  },
+  {
+    "mod_id": "CAPACK MODE",
+    "mod_name": "카팩3 0.3",
+    "version": "3 (0.3)",
+    "exe_path": "CApack3v04",
+    "folder_name": "",
+    "download_url": "NO LINK",
+    "zip_sha256": "",
+    "match_keywords": ["CApack", "0.3v"]
   }
 ]
