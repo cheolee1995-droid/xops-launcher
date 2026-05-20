@@ -5,7 +5,7 @@
     "version": "1.2",
     "exe_path": "구카정모드 1.2.exe",
     "folder_name": "",
-    "download_url": "https://downapi.cafe.naver.com/v1.0/cafes/article/file/fe50b837-53a8-11f1-bc92-0050569e3175/download",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/gukajung.1.2.zip",
     "zip_sha256": "",
     "match_keywords": ["구카정모드", "gukajung", "쏙옙", "옙카", "1.2v"],
     "serverlist_enabled": "O"
@@ -41,6 +41,17 @@
     "download_url": "",
     "zip_sha256": "",
     "match_keywords": ["CApack", "0.3v"],
+    "serverlist_enabled": "X"
+  },
+  {
+    "mod_id": "CLUTCH ZOMBIE MODE",
+    "mod_name": "클러치좀비모드 1.6",
+    "version": "1.6",
+    "exe_path": "clutch",
+    "folder_name": "",
+    "download_url": "",
+    "zip_sha256": "",
+    "match_keywords": ["clutch zombie", "1.6"],
     "serverlist_enabled": "X"
   }
 ]
