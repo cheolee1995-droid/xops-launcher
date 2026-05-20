@@ -11,12 +11,12 @@
     "serverlist_enabled": "O"
   },
   {
-    "mod_id": "ZOMBIEMODE",
-    "mod_name": "좀비모드 FINAL",
+    "mod_id": "ZOMBIE MODE PLUS",
+    "mod_name": "좀비모드 플러스 FINAL",
     "version": "FINAL",
     "exe_path": "xops zombie mode PLUS -FINAL-.exe",
     "folder_name": "",
-    "download_url": "https://drive.google.com/file/d/10XCFHv9Bt3qP8DPKgRUiqMD2OXlz52tu/view",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/XOPS.ZOMBIE.MODE.PLUS.-FINAL-.Zip",
     "zip_sha256": "",
     "match_keywords": ["ZOMBIE", "FINAL"],
     "serverlist_enabled": "O"
@@ -27,7 +27,7 @@
     "version": "3.1",
     "exe_path": "PANDORIUM.exe",
     "folder_name": "",
-    "download_url": "https://drive.google.com/file/d/1PjlV0WFyQrIG6_trM5kw7iL_IiQxDFFW/view",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/PANDORIUM.VER.3.1_.zip",
     "zip_sha256": "",
     "match_keywords": ["Survival Mode", "3.1"],
     "serverlist_enabled": "O"
@@ -38,7 +38,7 @@
     "version": "3 (0.3)",
     "exe_path": "CApack3v04.exe",
     "folder_name": "",
-    "download_url": "",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/CApack3v04.zip",
     "zip_sha256": "",
     "match_keywords": ["CApack", "0.3v"],
     "serverlist_enabled": "X"
@@ -49,7 +49,7 @@
     "version": "1.6",
     "exe_path": "clutch.exe",
     "folder_name": "",
-    "download_url": "",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/Clutch.Zombie.Mode.1.6.Version.zip",
     "zip_sha256": "",
     "match_keywords": ["clutch zombie", "1.6"],
     "serverlist_enabled": "X"
