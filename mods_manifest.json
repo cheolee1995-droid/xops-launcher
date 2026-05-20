@@ -64,5 +64,16 @@
     "zip_sha256": "",
     "match_keywords": ["Survivor", "1.26"],
     "serverlist_enabled": "O"
+  },
+  {
+    "mod_id": "SNOW FIGHT MODE",
+    "mod_name": "눈싸움모드 0.4",
+    "version": "0.4",
+    "exe_path": "snowfight.exe",
+    "folder_name": "",
+    "download_url": "",
+    "zip_sha256": "",
+    "match_keywords": ["snowfight", "0.4"],
+    "serverlist_enabled": "X"
   }
 ]
