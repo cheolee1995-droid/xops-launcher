@@ -1,14 +1,14 @@
 [
   {
     "mod_id": "CAPACK ZOMBIE MODE",
-    "mod_name": "카팩 좀비모드 1.31",
+    "mod_name": "카팩 좀비모드 1.32",
     "version": "1.31",
     "exe_path": "CounterAttack luncher.exe",
     "folder_name": "",
-    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/CA.CIVIL-NULL.1.31v.zip",
+    "download_url": "https://github.com/cheolee1995-droid/xops-launcher/releases/download/mods/CA.CIVIL-NULL.1.32v.zip",
     "preview_url": "https://raw.githubusercontent.com/cheolee1995-droid/xops-launcher/main/K-004.png",
     "zip_sha256": "",
-    "match_keywords": ["CZ server", "1.31"],
+    "match_keywords": ["CZ server", "1.32"],
     "serverlist_enabled": "O"
   },
   {
